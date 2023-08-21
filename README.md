@@ -1,2 +1,2 @@
-# ugoprofile.io
+# Ugo Ikpeazu's Profile
 Profile of Projects
